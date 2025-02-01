@@ -6,8 +6,8 @@
     </head>
 
     <body>
-<h1 align="center">Prénom Nom</h1>
-<h2 align="center">Licence 3 des Sciences du Langage</h2>
+<h1 align="center">Noamen Dahmani</h1>
+<h2 align="center">Master 1 des Sciences du Langage</h2>
 <center><img src="./static/img/sorbonne-nouvelle-devise-trapezes.png" width="20%" /><img src="./static/img/photo.png" width="10%" /></center>
 
 <p>Mon CV des trois dernières années :</p>
@@ -16,11 +16,10 @@
         <tr><th>année universitaire</th><th>Statut</th></tr>
     </thead>
     <tbody>
-        <tr><td>2022-2023</td><td>Cette année</td></tr>
-        <tr><td>2021-2022</td><td>L'année d'avant</td></tr>
-        <tr><td>2020-2021</td><td>L'année d'encore avant</td></tr>
-    </tbody>
-</table>
+        <tr><td>2022-2023</td><td>Noamen Dahmani</td></tr>
+
+        <tr><td>2021-2022</td><td>Mon CV des trois dernières années</td></tr>
+        <tr><td>2020-2021</td><td>
 
 <p>Voici les cinq derniers livres que j'ai lu :</p>
 <ol>
